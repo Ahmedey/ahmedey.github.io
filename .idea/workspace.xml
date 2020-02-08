@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd850bcf-6e78-4c06-b27d-34ec7151dcd2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ahmedey.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ahmed\WebstormProjects\ahmedey.github.io\img\favicon" />
       <recent name="C:\Users\ahmed\WebstormProjects\ahmedey.github.io\img" />
       <recent name="C:\Users\ahmed\WebstormProjects\ahmedey.github.io" />
     </key>
@@ -61,7 +58,7 @@
       <updated>1581104694536</updated>
       <workItem from="1581104695669" duration="5777000" />
       <workItem from="1581111089303" duration="335000" />
-      <workItem from="1581111567138" duration="1110000" />
+      <workItem from="1581111567138" duration="2340000" />
     </task>
     <task id="LOCAL-00001" summary="finshed unit 9">
       <created>1581104796664</created>
